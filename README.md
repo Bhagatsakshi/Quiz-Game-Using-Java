@@ -18,8 +18,7 @@ This is a **Java-based Quiz Game** built with a **Command Line Interface (CLI)**
 * **Language:** Java (JDK 8+)
 * **IDE:** IntelliJ 
 * **Data Storage:** in-memory using collections (`ArrayList`, `HashMap`)
-Absolutely! Here's what you should add to your `README.md` file so that others can easily **download**, **compile**, and **run** your Java CLI Quiz Game locally using:
-
+  
 ---
 
 ### 🚀 Steps to Run
