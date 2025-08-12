@@ -18,3 +18,27 @@ This is a **Java-based Quiz Game** built with a **Command Line Interface (CLI)**
 * **Language:** Java (JDK 8+)
 * **IDE:** IntelliJ 
 * **Data Storage:** in-memory using collections (`ArrayList`, `HashMap`)
+Absolutely! Here's what you should add to your `README.md` file so that others can easily **download**, **compile**, and **run** your Java CLI Quiz Game locally using:
+
+---
+
+### 🚀 Steps to Run
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/Bhagatsakshi/Quiz-Game-Using-Java.git
+   cd Quiz-Game-Using-Java
+   ```
+
+2. **Compile the Java File**
+
+   ```bash
+   javac Quiz_Game.java
+   ```
+
+3. **Run the Program**
+
+   ```bash
+   java Quiz_Game
+   ```
